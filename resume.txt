@@ -1,0 +1,157 @@
+================================================================================
+MAHESH DARAPUREDDY - PROFESSIONAL RESUME & KNOWLEDGE BASE
+================================================================================
+
+CONTACT & PORTFOLIO INFORMATION:
+- Full Name: Mahesh Darapureddy
+- Portfolio Website: https://maheshdarapureddy.in
+- Professional Profile: AI Developer, Full-Stack Engineer, and Certified ServiceNow Developer & Administrator
+- Focus Areas: Generative AI, Retrieval-Augmented Generation (RAG), Full-Stack Web Development, Machine Learning, and Enterprise Cloud & ITSM (ServiceNow)
+
+================================================================================
+PROFESSIONAL SUMMARY:
+================================================================================
+Mahesh Darapureddy is an ambitious, results-driven engineer pursuing a B.Tech in Electronics and Communication Engineering (2022-2026). He specializes in building cutting-edge AI-driven applications, scalable full-stack web platforms, and enterprise-grade ServiceNow workflows. With deep hands-on expertise across LLM orchestration (Multi-Modal AI, LangChain, RAG), Deep Learning (CNNs), modern web frameworks (Next.js, FastAPI, Flask), and dual ServiceNow certifications (CSA, CAD), Mahesh bridges the gap between state-of-the-art AI systems and robust enterprise solutions.
+
+================================================================================
+EDUCATION:
+================================================================================
+1. Bachelor of Technology (B.Tech) - Electronics and Communication Engineering (ECE)
+   - Institution: BVC Institute of Technology and Science (BVCITS)
+   - Duration: 2022 – 2026
+   - Academic Score: CGPA 7.5 / 10
+
+2. Intermediate (MPC - Mathematics, Physics, Chemistry)
+   - Institution: Educare Junior College
+   - Duration: 2020 – 2022
+   - Academic Score: GPA 7.4 / 10
+
+3. Secondary School Certificate (SSC - 10th Standard)
+   - Institution: Educare E.M School
+   - Year of Completion: 2020
+   - Academic Score: GPA 9.8 / 10
+
+================================================================================
+TECHNICAL SKILLS:
+================================================================================
+- Programming Languages:
+  * Python (Advanced - FastAPI, Flask, Pandas, NumPy, Scikit-Learn, TensorFlow)
+  * Java (Core Java, OOP principles)
+  * SQL (Database querying, schema design, relational modeling)
+  * HTML5, CSS3, JavaScript (ES6+, DOM Manipulation, modern frontend styling)
+
+- ServiceNow Enterprise Platform:
+  * ServiceNow ITSM (IT Service Management)
+  * Incident Management
+  * Problem Management
+  * Change Management
+  * Request Management
+  * Service Catalog Configuration
+  * Roles, Groups, and Access Control Lists (ACLs)
+  * Business Rules, Client Scripts, UI Policies, and Workflow Automations
+
+- Cloud, DevOps & Tools:
+  * Vercel (Frontend deployment, CI/CD, serverless functions)
+  * Microsoft Azure (Cloud computing, storage, app deployment)
+  * Git & GitHub (Version control, branching, PR reviews, CI workflows)
+
+- AI / Machine Learning & Frameworks:
+  * Retrieval-Augmented Generation (RAG)
+  * Large Language Models (LLM API integrations: OpenAI GPT-4.1, GPT-4o-mini, Google Gemini 2.0 Pro, DeepSeek V3)
+  * LangChain Framework
+  * HuggingFace Embeddings
+  * Convolutional Neural Networks (CNN)
+  * TensorFlow & Keras
+  * Scikit-Learn
+  * Web Scraping (BeautifulSoup)
+
+- Web Development & Databases:
+  * Next.js, React
+  * FastAPI, Flask
+  * MongoDB (NoSQL document database, aggregation pipelines)
+  * Clerk (Authentication, User Management, Role-Based Access Control / RBAC)
+
+================================================================================
+PROJECTS:
+================================================================================
+
+1. Multi-Modal AI Chatbot
+   - Live URL: https://chat.maheshdarapureddy.in
+   - Technologies: Next.js, FastAPI, MongoDB, RBAC, Clerk, GPT-4.1, GPT-4o-mini, Gemini 2.0 Pro, DeepSeek V3
+   - Description:
+     * Developed an advanced multi-modal conversational AI web application featuring dynamic model routing among leading LLMs (GPT-4.1, GPT-4o-mini, Gemini 2.0 Pro, DeepSeek V3).
+     * Integrated secure user authentication and Role-Based Access Control (RBAC) powered by Clerk.
+     * Built a high-performance backend with FastAPI and asynchronous MongoDB storage for chat persistence, user sessions, and conversation memory.
+     * Modern responsive user interface built using Next.js with streaming message responses.
+
+2. AI Analyzer
+   - Live URL: https://chatai.maheshdarapureddy.in
+   - Technologies: Next.js, FastAPI, LangChain, HuggingFace Embeddings, GPT-4.1, BeautifulSoup, Clerk
+   - Description:
+     * Built an end-to-end Retrieval-Augmented Generation (RAG) document intelligence system capable of ingesting PDF, TXT, DOCX documents as well as direct web URLs.
+     * Integrated web scraping via BeautifulSoup to extract clean text from external web pages.
+     * Generated semantic vector embeddings using HuggingFace models and implemented vector search via LangChain.
+     * Utilized GPT-4.1 for deep contextual question answering, multi-document summarization, and citation generation.
+     * Provided secure authentication and document management using Clerk and Next.js.
+
+3. Diabetes Predictor
+   - Live URL: https://diabetes.maheshdarapureddy.in
+   - Technologies: Next.js, Flask, MongoDB, Machine Learning, Clerk
+   - Description:
+     * Engineered an intelligent healthcare risk assessment tool predicting the likelihood of diabetes based on clinical and biometric parameters.
+     * Trained and fine-tuned machine learning classification models for accurate diagnostic risk prediction.
+     * Implemented dynamic automated PDF medical diagnostic report generation for patients and healthcare providers.
+     * Integrated user profile management and historical health report tracking using Clerk and MongoDB.
+
+4. Kidney Stone Detection
+   - Live URL: https://detect.maheshdarapureddy.in
+   - Technologies: HTML, CSS, JavaScript, Flask, TensorFlow, Keras
+   - Description:
+     * Built a deep learning computer vision web application to assist in medical diagnostics by classifying kidney ultrasound scans.
+     * Architected and trained a Convolutional Neural Network (CNN) in TensorFlow and Keras to accurately detect kidney stones from medical imaging datasets.
+     * Deployed an interactive Flask backend with an intuitive, responsive web UI for medical image uploading, preprocessing, and real-time inference visualization.
+
+================================================================================
+INTERNSHIPS & WORK EXPERIENCE:
+================================================================================
+1. Python Development Intern - AICTE
+   - Focused on backend development, algorithmic problem solving, scripting, and building Python applications adhering to standard software engineering best practices.
+
+2. Python Full Stack Intern - Eduskills
+   - Gained hands-on experience in full-stack web architecture, connecting Python backend frameworks (Flask/Django) with dynamic responsive frontend interfaces and relational databases.
+
+3. Frontend Development Intern - AICTE
+   - Developed responsive, accessible, and high-performance user interfaces using modern web technologies including HTML5, CSS3, JavaScript, and responsive design systems.
+
+================================================================================
+CERTIFICATIONS:
+================================================================================
+1. ServiceNow Certified System Administrator (CSA)
+   - Validates expertise in configuring, managing, and maintaining the ServiceNow platform, including user administration, roles, ACLs, service catalog, and system maintenance.
+
+2. ServiceNow Certified Application Developer (CAD)
+   - Validates hands-on proficiency in designing, developing, and deploying custom applications on the ServiceNow Now Platform, utilizing client and server-side scripting (Business Rules, Script Includes, UI Policies, Workflows).
+
+================================================================================
+INTERVIEW QUESTIONS & ANSWERS GUIDELINES:
+================================================================================
+- "Tell me about yourself":
+  Mahesh Darapureddy is an Electronics and Communication Engineering undergraduate (2022-2026) at BVCITS with a strong passion for artificial intelligence, full-stack software development, and enterprise cloud solutions. He has developed several deployed production-grade applications, including a Multi-Modal AI Chatbot integrating multiple frontier LLMs, a RAG-based document intelligence tool (AI Analyzer), an ML-powered Diabetes Predictor, and a CNN-based Kidney Stone Detection system. Additionally, he holds two prestigious ServiceNow certifications (CSA and CAD) and has completed multiple technical internships with AICTE and Eduskills.
+
+- "What are your greatest technical strengths?":
+  Mahesh's key strengths include rapid prototyping and production deployment of AI applications (LLMs, RAG, CNNs, LangChain), solid full-stack engineering (Python, Next.js, FastAPI, Flask, MongoDB), and enterprise IT workflows through certified ServiceNow development (CSA, CAD).
+
+- "Why should we hire Mahesh?":
+  Mahesh brings a unique hybrid combination of cutting-edge AI/ML engineering and enterprise-level ServiceNow proficiency. He has demonstrated exceptional initiative by not only building complex projects but also deploying them live to public domains. His strong academic record, certified enterprise skills, and proven ability to deliver functional end-to-end applications make him an immediate contributor to modern engineering teams.
+
+- "What is your approach to learning new technologies?":
+  Mahesh learns by building practical projects. Whether mastering RAG pipelines, training neural networks, or earning ServiceNow certifications, he applies concepts immediately to tangible applications with live deployments.
+
+================================================================================
+KNOWLEDGE BASE CONSTRAINTS & ACCURACY RULES:
+================================================================================
+- Always maintain honesty and precision.
+- Strictly ground all answers in the verified details provided in this resume.
+- Never invent, fabricate, or hallucinate credentials, past companies, salary details, hobbies, or phone numbers that are not listed here.
+- If a visitor asks a question whose answer is not covered in this resume (for example: personal home address, marital status, unrelated tools not listed), politely state: "I do not have that information in Mahesh's official resume. You can reach out directly via his portfolio at https://maheshdarapureddy.in for any further inquiries."
+================================================================================
